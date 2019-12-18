@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2016" started-at="2019-12-17T23:35:47 EST" finished-at="2019-12-17T23:35:49 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2016" started-at="2019-12-17T23:35:47 EST" finished-at="2019-12-17T23:35:49 EST">
+      <class name="apiTest.LandlordsAPI">
+        <test-method status="PASS" signature="UpdateAlandlord()[pri:0, instance:apiTest.LandlordsAPI@3dd4520b]" name="UpdateAlandlord" duration-ms="1877" started-at="2019-12-17T23:35:47 EST" finished-at="2019-12-17T23:35:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateAlandlord -->
+        <test-method status="PASS" signature="getallLandlords()[pri:0, instance:apiTest.LandlordsAPI@3dd4520b]" name="getallLandlords" duration-ms="60" started-at="2019-12-17T23:35:49 EST" finished-at="2019-12-17T23:35:49 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallLandlords -->
+      </class> <!-- apiTest.LandlordsAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
